@@ -1,6 +1,6 @@
 Library Management System
 Author: Hasnain Dehwar
-Email: hansaindehwar78@gmail.com
+Email: hasnaindehwar78@gmail.com
 GitHub Username: Hasnai_dehwar
 
 Features
